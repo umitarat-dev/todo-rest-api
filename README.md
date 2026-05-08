@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://umit8101.pythonanywhere.com/">
+    <a href="https://umit8101.pythonanywhere.com/todo">
       🖥️ Live Demo (Browsable API)
     </a>
      | 
